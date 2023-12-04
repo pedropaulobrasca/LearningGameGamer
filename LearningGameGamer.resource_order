@@ -30,6 +30,7 @@
     {"name":"spr_tile","order":6,"path":"sprites/spr_tile/spr_tile.yy",},
     {"name":"spr_block","order":1,"path":"sprites/spr_block/spr_block.yy",},
     {"name":"obj_staff_red","order":1,"path":"objects/obj_staff_red/obj_staff_red.yy",},
+    {"name":"spr_skelet_run","order":1,"path":"sprites/spr_skelet_run/spr_skelet_run.yy",},
     {"name":"spr_shot","order":2,"path":"sprites/spr_shot/spr_shot.yy",},
     {"name":"obj_axe","order":3,"path":"objects/obj_axe/obj_axe.yy",},
     {"name":"spt_staff_red","order":1,"path":"sprites/spt_staff_red/spt_staff_red.yy",},

@@ -48,6 +48,7 @@
     {"id":{"name":"obj_skelet","path":"objects/obj_skelet/obj_skelet.yy",},},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
     {"id":{"name":"obj_staff_red","path":"objects/obj_staff_red/obj_staff_red.yy",},},
+    {"id":{"name":"spr_skelet_run","path":"sprites/spr_skelet_run/spr_skelet_run.yy",},},
     {"id":{"name":"spr_shot","path":"sprites/spr_shot/spr_shot.yy",},},
     {"id":{"name":"obj_axe","path":"objects/obj_axe/obj_axe.yy",},},
     {"id":{"name":"sprt_axe_shot","path":"sprites/sprt_axe_shot/sprt_axe_shot.yy",},},

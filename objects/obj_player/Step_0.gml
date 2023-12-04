@@ -13,6 +13,9 @@ _right = keyboard_check(ord("D"))
 
 if (_up xor _down or _left xor _right) {
 	move_dir = point_direction(0, 0, (_right - _left), (_down - _up))
+
+	// se tiver se movendo, vira pra direção que ta indo
+	image_xscale = sign(horizontal_speed)
 	
 	// Ganha velocidade ao se mover
 	actual_speed = max_speed
