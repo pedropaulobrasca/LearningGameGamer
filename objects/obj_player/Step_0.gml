@@ -11,9 +11,7 @@ _right = keyboard_check(ord("D"))
 
 // qual dir to movendo
 
-show_debug_message(weapon)
-
-if (_up || _down or _left || _right) {
+if (_up xor _down or _left xor _right) {
 	move_dir = point_direction(0, 0, (_right - _left), (_down - _up))
 	
 	// Ganha velocidade ao se mover
